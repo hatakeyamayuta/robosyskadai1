@@ -13,7 +13,7 @@
 * GPIO25とGNDの間にLEDを接続
   * GPIO25: 22番ピン
   * GND: 39番ピン
-
+![](./kairo.PNG)
 ## インストール方法
 ```
 $ git clone https://github.com/hatakeyamayuta/robosyskadai1.git
@@ -29,3 +29,8 @@ $ echo 1 > /dev/myled0
 ```
 $ sudo rmmod myled
 ```
+### 参考文献
+* ロボットシステム学2018第8回   
+https://github.com/ryuichiueda/robosys2018/blob/master/06.md  
+* カーネルモジュール作成によるlinuxカーネル開発入門 - 第二回 一定時間後に処理をする(タイマー)   
+https://qiita.com/satoru_takeuchi/items/254dbd7bcad392263c85
