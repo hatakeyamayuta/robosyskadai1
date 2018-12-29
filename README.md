@@ -1,7 +1,8 @@
 # 2018ロボットシステム学課題1
 ## 動作説明
  自作デバイスドライバによりRaspberryPi3B+のGPIOを操作することでLEDを点滅させる <p> 
-動画
+動画  
+https://m.youtube.com/watch?v=4o5j1saaqzu
 
 ### 動作環境
 
