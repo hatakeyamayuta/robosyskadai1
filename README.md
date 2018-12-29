@@ -2,7 +2,7 @@
 ## 動作説明
  自作デバイスドライバによりRaspberryPi3B+のGPIOを操作することでLEDを点滅させる <p> 
 動画  
-https://m.youtube.com/watch?v=4o5j1saaqzu
+https://youtu.be/xctREh3zYZ4
 
 ### 動作環境
 
